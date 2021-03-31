@@ -12,7 +12,7 @@ public class MainClass {
 // TODO Auto-generated method stub
 		try {
 			TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
-			botsApi.registerBot(new Juice_bot());
+			botsApi.registerBot(new ChatBot());
 		} catch (TelegramApiException e) {
 			e.printStackTrace();
 		}
