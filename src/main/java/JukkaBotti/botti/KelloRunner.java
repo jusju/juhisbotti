@@ -1,4 +1,4 @@
-package JuhisBotti.botti;
+package JukkaBotti.botti;
 
 public class KelloRunner {
 

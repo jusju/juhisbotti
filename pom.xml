@@ -81,7 +81,7 @@
 							<archive>
 								<manifest>
 									<mainClass>
-										JuhisBotti.botti.MainClass
+										JukkaBotti.botti.MainClass
 									</mainClass>
 								</manifest>
 							</archive>

@@ -1,4 +1,4 @@
-package JuhisBotti.botti;
+package JukkaBotti.botti;
 
 import java.text.DecimalFormat;
 import java.util.List;

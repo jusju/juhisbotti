@@ -1,4 +1,4 @@
-package JuhisBotti.botti;
+package JukkaBotti.botti;
 
 import java.io.IOException;
 import java.net.InetAddress;

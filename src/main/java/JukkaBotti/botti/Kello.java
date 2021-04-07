@@ -1,4 +1,4 @@
-package JuhisBotti.botti;
+package JukkaBotti.botti;
 
 /**
  * Rajapintaluokka, joka määrittelee mitkä kaikki metodit sellaisen luokan
