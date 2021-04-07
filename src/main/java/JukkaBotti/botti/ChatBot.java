@@ -243,12 +243,12 @@ public class ChatBot extends TelegramLongPollingBot {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		try {
-			TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
-			botsApi.registerBot(new ChatBot());
-		} catch (TelegramApiException e) {
-			e.printStackTrace();
-		}
+//		try {
+//			TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
+//			botsApi.registerBot(new ChatBot());
+//		} catch (TelegramApiException e) {
+//			e.printStackTrace();
+//		}
 
 	}
 }
